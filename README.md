@@ -5,10 +5,6 @@
 
 ### <div align="center">I'm panda yuanyuan, A three years old student</div>  
   
-
-- 🔭 I’m currently working on [Alibaba](https://www.alibabagroup.com/)  
-  
-
 - 🌱 I’m currently learning Tensorflow and reverse  
   
 

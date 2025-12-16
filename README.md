@@ -1,100 +1,95 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+I'm+Panda+Yuanyuan;I+Love+Reverse+Engineering;Coding+in+Python+%26+Tensorflow" alt="Typing SVG" />
+  </a>
 </div>
 
-<h3 align="center">Hi there, I'm Panda Yuanyuan! 👋</h3>
+<div align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="40%" style="margin-bottom: 20px" />
+</div>
+
+<h3 align="center">🐼 Student | Reverse Engineering Enthusiast | AI Learner</h3>
 
 <div align="center">
   
-  🌱 I’m currently learning **TensorFlow** and **Reverse Engineering**.  
-  💻 A Computer Science student with a passion for coding.
+  🌱 Currently learning: **TensorFlow** & **Reverse Engineering** 🔭 Working on: **Personal AI Assistant** 💬 Ask me about: **Python, C++, System Security**
   
 </div>
 
 <br/>
 
-## 🛠 My Skill Set
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Languages</h3>
-      <div align="center">
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
-        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>
-        <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" /></a>
-        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
-        <a href="https://cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">AI & ML</h3>
-      <div align="center">
-        <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" /></a>
-        <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="40" /></a>
-        <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" /></a>
-        <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="40" /></a>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend & DB</h3>
-      <div align="center">
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>
-        <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" /></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
-        <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="40" /></a>
-        <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" /></a>
-        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" /></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <h3 align="center">DevOps & Tools</h3>
-      <div align="center">
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>
-        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
-        <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" /></a>
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-        <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="40" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 📊 Github Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BabyBoy-Yuan&show_icons=true&count_private=true&hide_border=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyBoy-Yuan&layout=compact&hide_border=true&theme=radical" />
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=BabyBoy-Yuan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyBoy-Yuan&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BabyBoy-Yuan&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 <br/>
 
-## 🤝 Connect with me
+<div align="center">
+  <img src="https://github.com/BabyBoy-Yuan/BabyBoy-Yuan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <a href="https://github.com/BabyBoy-Yuan" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  
+  <h3>Languages</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  
+  <br/><br/>
+  
+  <h3>AI & Data</h3>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+  <br/><br/>
+
+  <h3>Tools & DevOps</h3>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+  <a href="https://github.com/BabyBoy-Yuan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/Baby_boy_yuan" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+  <a href="https://twitter.com/Baby_boy_yuan">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.buymeacoffee.com/BabyBoy-Yuan">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BabyBoy-Yuan&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/BabyBoy-Yuan" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=BabyBoy-Yuan&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>

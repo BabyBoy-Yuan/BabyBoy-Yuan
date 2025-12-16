@@ -40,6 +40,17 @@
 
 <br/>
 
+## 🔭 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/BabyBoy-Yuan/work_certification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BabyBoy-Yuan&repo=work_certification&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/BabyBoy-Yuan/python_algorithm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BabyBoy-Yuan&repo=python_algorithm&theme=tokyonight" />
+  </a>
+</div>
+
 ## 🛠 Tech Stack
 
 <div align="center">

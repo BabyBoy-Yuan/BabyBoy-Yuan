@@ -35,7 +35,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/BabyBoy-Yuan/BabyBoy-Yuan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/BabyBoy-Yuan/BabyBoy-Yuan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>

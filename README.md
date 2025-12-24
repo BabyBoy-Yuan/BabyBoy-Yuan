@@ -35,18 +35,8 @@
 <br/>
 
 <div align="center">
-  ```mermaid
-radar
-  title "技能熟练度（满分 10）"
-  accentColor #FF6B6B
-  axis Python: 10
-  axis 逆向工程: 9
-  axis 汇编/低级编程: 8
-  axis AI & 数据处理: 7
-  axis DevOps & 工具: 7
-  axis 其他语言: 6
-```
   <img src="https://raw.githubusercontent.com/BabyBoy-Yuan/BabyBoy-Yuan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="./src/image/chart.png">
 </div>
 
 <br/>

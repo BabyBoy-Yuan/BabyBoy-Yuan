@@ -81,6 +81,23 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 
+  <br/><br/>
+
+  <h3>Reverse Engineering</h3>
+  <img src="https://img.shields.io/badge/Ghidra-NSA-red?style=for-the-badge&logo=ghidra" alt="Ghidra" />  <!-- Ghidra 有官方 logo -->
+  <img src="https://img.shields.io/badge/IDA%20Pro-Hex--Rays-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/x64dbg-004088?style=for-the-badge&logo=x64dbg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radare2-00C0C0?style=for-the-badge&logo=radare2&logoColor=black" />
+  <img src="https://img.shields.io/badge/Binary%20Ninja-Vector--35-green?style=for-the-badge" />
+
+  <br/><br/>
+
+  <h3>Security Tools</h3>
+  <img src="https://img.shields.io/badge/Assembly-x86%2Fx64-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-dynamic-instrumentation-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YARA-rules-red?style=for-the-badge" />
+
 </div>
 
 <br/>

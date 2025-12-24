@@ -95,7 +95,7 @@
   <h3>Security Tools</h3>
   <img src="https://img.shields.io/badge/Assembly-x86%2Fx64-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frida-dynamic-instrumentation-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frida-dynamic%20instrumentation-FF6B6B?style=for-the-badge&logo=frida&logoColor=white" />
   <img src="https://img.shields.io/badge/YARA-rules-red?style=for-the-badge" />
 
 </div>

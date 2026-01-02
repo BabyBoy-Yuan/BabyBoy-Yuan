@@ -36,7 +36,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BabyBoy-Yuan/BabyBoy-Yuan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <img src="./src/image/chart.png">
+  <img src="./src/image/charts.png">
 </div>
 
 <br/>
